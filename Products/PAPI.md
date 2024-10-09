@@ -1,8 +1,7 @@
-## Darshan
+## PAPI
 
 ### Description
 
-Darshan is a scalable HPC I/O characterization tool designed to capture an accurate picture of application I/O behavior, including properties such as patterns of access within files, with minimum overhead.
 
 ### Impact, Sustainability, and Quality
 
@@ -57,17 +56,17 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
   <tbody>
     <tr>
       <td markdown="span">
-        [Website][Darshan]
+        [Website][PAPI]
       </td><!-- Website -->
       <td markdown="span">
-        [Documentation][Darshan-DOC]
+        [Documentation][PAPI-DOC]
       </td><!-- Documentation -->
       <td markdown="span">
-        [Repository][Darshan-REPO]
+        [Repository][PAPI-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
       <td markdown="span">
-        [Spack][Darshan-Spack]
+        [Spack][PAPI-Spack]
       </td><!-- Spack -->
       <td style="text-align: center" markdown="span">✅</td><!-- E4S -->
       <td style="text-align: center" markdown="span">✅</td><!-- Smoke Test -->
@@ -77,7 +76,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
 
-[Darshan]: https://www.mcs.anl.gov/research/projects/darshan/
-[Darshan-DOC]: https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-runtime.html
-[Darshan-REPO]: https://github.com/darshan-hpc/darshan
-[Darshan-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/darshan-runtime/package.py
+[PAPI]: https://icl.utk.edu/papi/
+[PAPI-DOC]: https://github.com/icl-utk-edu/papi/wiki/
+[PAPI-REPO]: https://github.com/icl-utk-edu/papi
+[PAPI-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/papi/package.py

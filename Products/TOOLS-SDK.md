@@ -71,9 +71,7 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
         [Repository][TOOLS-SDK-REPO]
       </td><!-- Repository -->
       <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
-      <td markdown="span">
-        [Spack][TOOLS-SDK-Spack]
-      </td><!-- Spack -->
+      <td style="text-align: center" markdown="span">🚫</td><!-- Spack -->
       <td style="text-align: center" markdown="span">🚫</td><!-- E4S -->
       <td style="text-align: center" markdown="span">🚫</td><!-- Smoke Test -->
     </tr>
@@ -84,6 +82,5 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
 
 [back](./)
 
-[TOOLS-SDK]: https://tools-sdk.github.io/
-[TOOLS-SDK-REPO]: https://github.com/TOOLS-SDK/toolssdk
-[TOOLS-SDK-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/tools-sdk/package.py
+[TOOLS-SDK]: https://tools-integration.github.io/
+[TOOLS-SDK-REPO]: https://github.com/tools-integration/

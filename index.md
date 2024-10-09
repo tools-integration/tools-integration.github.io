@@ -8,7 +8,7 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
 
 ## Included Projects
 
-The following projects are included as part of the DAV SDK:
+The following projects are included as part of the TOOLS SDK:
 
 <span style="border-width:3px; border-style:solid; border-color:#d73027; padding: 0.25em;">[TOOLS](./tools.html)</span>&emsp;
 

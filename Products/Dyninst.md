@@ -1,8 +1,9 @@
-## Darshan
+## Dyninst
 
 ### Description
 
-Darshan is a scalable HPC I/O characterization tool designed to capture an accurate picture of application I/O behavior, including properties such as patterns of access within files, with minimum overhead.
+Dyninst is an API for dynamic binary instrumentation which enables modifying programs while they
+are executing without recompiling, re-linking, or re-executing.
 
 ### Impact, Sustainability, and Quality
 
@@ -57,17 +58,17 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
   <tbody>
     <tr>
       <td markdown="span">
-        [Website][Darshan]
+        [Website][Dyninst]
       </td><!-- Website -->
       <td markdown="span">
-        [Documentation][Darshan-DOC]
+        [Documentation][Dyninst-DOC]
       </td><!-- Documentation -->
       <td markdown="span">
-        [Repository][Darshan-REPO]
+        [Repository][Dyninst-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
       <td markdown="span">
-        [Spack][Darshan-Spack]
+        [Spack][Dyninst-Spack]
       </td><!-- Spack -->
       <td style="text-align: center" markdown="span">✅</td><!-- E4S -->
       <td style="text-align: center" markdown="span">✅</td><!-- Smoke Test -->
@@ -77,7 +78,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
 
-[Darshan]: https://www.mcs.anl.gov/research/projects/darshan/
-[Darshan-DOC]: https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-runtime.html
-[Darshan-REPO]: https://github.com/darshan-hpc/darshan
-[Darshan-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/darshan-runtime/package.py
+[Dyninst]: http://www.dyninst.org/
+[Dyninst-DOC]: https://github.com/dyninst/dyninst/wiki
+[Dyninst-REPO]: https://github.com/dyninst/dyninst
+[Dyninst-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/dynist/package.py
