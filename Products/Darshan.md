@@ -34,7 +34,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
         <strong>Quality</strong>
       </td>
       <td>
-        Based on E4S Community Policies (https://e4s-project.github.io/policies.html), Describe the activities and level of software quality mautrity.
+        Based on E4S Community Policies (https://e4s-project.github.io/policies.html), Describe the activities and level of software quality mautrity. 
       </td>
     </tr>
   </tbody>
@@ -74,6 +74,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
     </tr>
   </tbody>
 </table>
+
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
 
