@@ -4,7 +4,7 @@ layout: default
 
 ## TOOLS-SDK
 
-[back](./)
+[back](../)
 
 ### Description
 
@@ -80,7 +80,7 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
 
-[back](./)
+[back](../)
 
 [TOOLS-SDK]: https://tools-integration.github.io/
 [TOOLS-SDK-REPO]: https://github.com/tools-integration/
