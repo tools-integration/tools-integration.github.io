@@ -28,13 +28,14 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
       </td>
       <td>
         How are advancements and maintenance funded? How stable is the funding?
+      </td>
     </tr>
     <tr>
       <td>
         <strong>Quality</strong>
       </td>
       <td>
-        Based on E4S Community Policies (https://e4s-project.github.io/policies.html), Describe the activities and level of software quality mautrity. 
+        Based on E4S Community Policies (https://e4s-project.github.io/policies.html), Describe the activities and level of software quality mautrity.
       </td>
     </tr>
   </tbody>

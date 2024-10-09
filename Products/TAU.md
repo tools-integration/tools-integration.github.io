@@ -29,6 +29,7 @@ TAU is a portable profiling and tracing toolkit for performance analysis of para
       </td>
       <td>
         How are advancements and maintenance funded? How stable is the funding?
+      </td>
     </tr>
     <tr>
       <td>

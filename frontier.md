@@ -125,9 +125,6 @@ for the CCE and AMD compilers, in particular how they wrap MPI and HIP.
 
 ## Notes
 
-<span id="verified_on_sunspot">**Aurora**</span> - Due to the similarity between the toolchains on Aurora and Sunspot, the results for the Aurora system are currently marked as verified as builds on Aurora progress. As issues are found on Aurora, these values will be updated to reflect the target system status.
-
-
 [back](./)
 
 [DARSHAN]: https://www.mcs.anl.gov/research/projects/darshan/

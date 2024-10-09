@@ -29,6 +29,7 @@ are executing without recompiling, re-linking, or re-executing.
       </td>
       <td>
         How are advancements and maintenance funded? How stable is the funding?
+      </td>
     </tr>
     <tr>
       <td>

@@ -28,6 +28,7 @@ HPC Toolkit is an integrated suite of tools for measurement and analysis of prog
       </td>
       <td>
         How are advancements and maintenance funded? How stable is the funding?
+      </td>
     </tr>
     <tr>
       <td>
