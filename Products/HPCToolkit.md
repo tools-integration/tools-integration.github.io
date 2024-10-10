@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 ## HPC Toolkit
+
+[back](../scorecards.html)
 
 ### Description
 
@@ -77,6 +83,8 @@ HPC Toolkit is an integrated suite of tools for measurement and analysis of prog
 </table>
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
+
+[back](../scorecards.html)
 
 [HPCToolkit]: https://hpctoolkit.org
 [HPCToolkit-DOC]: https://hpctoolkit.org/documentation.html

@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 ## Dyninst
+
+[back](../scorecards.html)
 
 ### Description
 
@@ -79,7 +85,10 @@ are executing without recompiling, re-linking, or re-executing.
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
 
+[back](../scorecards.html)
+
 [Dyninst]: http://www.dyninst.org/
 [Dyninst-DOC]: https://github.com/dyninst/dyninst/wiki
 [Dyninst-REPO]: https://github.com/dyninst/dyninst
 [Dyninst-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/dynist/package.py
+

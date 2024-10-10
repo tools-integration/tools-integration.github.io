@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 ## PAPI
+
+[back](../scorecards.html)
 
 ### Description
 
@@ -76,6 +82,8 @@
 </table>
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
+
+[back](../scorecards.html)
 
 [PAPI]: https://icl.utk.edu/papi/
 [PAPI-DOC]: https://github.com/icl-utk-edu/papi/wiki/

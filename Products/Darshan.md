@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 ## Darshan
+
+[back](../scorecards.html)
 
 ### Description
 
@@ -78,6 +84,8 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
 
 
 **Note**: Working with the STEP leadership to refine metrics and identify methods to demonstrate how project efforts lead to measurable increases in software quality.
+
+[back](../scorecards.html)
 
 [Darshan]: https://www.mcs.anl.gov/research/projects/darshan/
 [Darshan-DOC]: https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-runtime.html
