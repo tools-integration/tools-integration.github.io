@@ -83,4 +83,4 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
 [back](../)
 
 [TOOLS-SDK]: https://tools-integration.github.io/
-[TOOLS-SDK-REPO]: https://github.com/tools-integration/
+[TOOLS-SDK-REPO]: https://github.com/tools-integration/tools-sdk

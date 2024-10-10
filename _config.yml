@@ -15,4 +15,4 @@ plugins:
 github:
   is_project_page: true
   is_user_page: false
-  repository_url: https://github.com/TOOLS-SDK/toolssdk
+  repository_url: https://github.com/tools-integration/tools-sdk
