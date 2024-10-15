@@ -73,7 +73,7 @@ are executing without recompiling, re-linking, or re-executing.
       <td markdown="span">
         [Repository][Dyninst-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
       <td markdown="span">
         [Spack][Dyninst-Spack]
       </td><!-- Spack -->
