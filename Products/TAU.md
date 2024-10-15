@@ -73,7 +73,7 @@ TAU is a portable profiling and tracing toolkit for performance analysis of para
       <td markdown="span">
         [Repository][TAU-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
       <td markdown="span">
         [Spack][TAU-Spack]
       </td><!-- Spack -->

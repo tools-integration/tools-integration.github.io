@@ -71,7 +71,7 @@ layout: default
       <td markdown="span">
         [Repository][PAPI-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
       <td markdown="span">
         [Spack][PAPI-Spack]
       </td><!-- Spack -->
