@@ -72,7 +72,7 @@ HPC Toolkit is an integrated suite of tools for measurement and analysis of prog
       <td markdown="span">
         [Repository][HPCToolkit-REPO]
       </td><!-- Repository -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
+      <td style="text-align: center" markdown="span">✅</td><!-- Test Suite -->
       <td markdown="span">
         [Spack][HPCToolkit-Spack]
       </td><!-- Spack -->
