@@ -11,6 +11,7 @@ layout: default
 
 - [Darshan](./Products/Darshan.html)
 - [Dyninst](./Products/Dyninst.html)
+- [ERT](./Products/ERT.html)
 - [HPCToolkit](./Products/HPCToolkit.html)
 - [PAPI](./Products/PAPI.html)
 - [TAU](./Products/TAU.html)
