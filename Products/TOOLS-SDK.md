@@ -8,7 +8,11 @@ layout: default
 
 ### Description
 
-The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integration effort for a collection of software packages used to monitor, analyze, and diagnose the performance and behavior of computational science applications and systems software developed under the Department of Energy (DOE) Advanced Scientific Computing Research (ASCR). The software products target using Spack, an HPC-targeted source-based package manager, for deployment on HPC platforms and beyond. The primary product of this project is the toolssdk Spack meta-package which builds a set of TOOLS SDK member packages together in a way that enables optimal features for target environments as well as interoperable features provided by other packages within the TOOLS SDK. The TOOLS SDK is an outcome of the work within the DOE STEP project and is sustained and advanced by the DOE PESO project.
+The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integration effort for a collection of software packages used to monitor, analyze, and diagnose the performance and behavior of computational science applications and systems software developed under the Department of Energy (DOE) Advanced Scientific Computing Research (ASCR).
+The software products target using Spack, an HPC-targeted source-based package manager, for deployment on HPC platforms and beyond.
+The primary product of this project is the toolssdk Spack configuration templates which define an integrated baseline configuration for how to build a set of TOOLS SDK member packages.
+The template configurations enables optimal features for target environments as well as interoperable features provided by other packages within the TOOLS SDK.
+The TOOLS SDK is an outcome of the work within the DOE STEP project and is sustained and advanced by the DOE PESO project.
 
 ### Impact, Sustainability, and Quality
 
@@ -25,7 +29,8 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
         <strong>Impact</strong>
       </td>
       <td>
-        We designed the TOOLS-SDK Spack meta-package to build and deploy a collection of TOOLS SDK member packages, including Darshan, Dyninst, HPCToolkit, PAPI, and TAU. This capability enables optimal features for specific environments and facilitates interoperability with other packages within the TOOLS SDK.
+        We designed the TOOLS SDK Spack config templates to be a baseline for creating environments to building and deploy a collection of TOOLS SDK member packages, including Darshan, Dyninst, HPCToolkit, PAPI, and TAU.
+        This capability enables optimal features for specific environments and facilitates interoperability with other packages within the TOOLS SDK.
       </td>
     </tr>
     <tr>
@@ -33,7 +38,8 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
         <strong>Sustainability</strong>
       </td>
       <td>
-        We established the fundamental capabilities of TOOLS-SDK as a Spack meta-package. The ongoing support and development of these capabilities in updated or new systems and their application in evolving or new high-performance computing systems rely heavily on funding from the Department of Energy (DOE).
+        We established the fundamental capabilities of TOOLS SDK as Spack configuration templates.
+        The ongoing support and development of these capabilities in updated or new systems and their application in evolving or new high-performance computing systems rely heavily on funding from the Department of Energy (DOE).
       </td>
     </tr>
     <tr>
@@ -41,7 +47,7 @@ The tools (TOOLS) software development kit (SDK), or TOOLS SDK, is an integratio
         <strong>Quality</strong>
       </td>
       <td>
-        The TOOLS-SDK, while still in its early stages, benefits from quality assurance provided by Spack and the continuous integration and testing of member packages such as Darshan, Dyninst, HPCToolkit, PAPI, and TAU.
+        The TOOLS SDK, while still in its early stages, benefits from quality assurance provided by Spack and the continuous integration and testing of member packages such as Darshan, Dyninst, HPCToolkit, PAPI, and TAU.
       </td>
     </tr>
   </tbody>
