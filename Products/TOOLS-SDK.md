@@ -72,14 +72,14 @@ The TOOLS SDK is an outcome of the work within the DOE STEP project and is susta
       <td markdown="span">
         [Website][TOOLS-SDK]
       </td><!-- Website -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Documentation -->
+      <td style="text-align: center" markdown="span">[Documentation][TOOLS-SDK-DOCS]</td><!-- Documentation -->
       <td markdown="span">
         [Repository][TOOLS-SDK-REPO]
       </td><!-- Repository -->
       <td style="text-align: center" markdown="span">🚫</td><!-- Test Suite -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Spack -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- E4S -->
-      <td style="text-align: center" markdown="span">🚫</td><!-- Smoke Test -->
+      <td style="text-align: center" markdown="span">[Spack][TOOLS-SDK-SPACK]</td><!-- Spack -->
+      <td style="text-align: center" markdown="span">N/A</td><!-- E4S -->
+      <td style="text-align: center" markdown="span">N/A</td><!-- Smoke Test -->
     </tr>
   </tbody>
 </table>
@@ -89,4 +89,6 @@ The TOOLS SDK is an outcome of the work within the DOE STEP project and is susta
 [back](../scorecards.html)
 
 [TOOLS-SDK]: https://tools-integration.github.io/
+[TOOLS-SDK-DOCS]: https://github.com/tools-integration/tools-sdk/blob/main/README.md
+[TOOLS-SDK-SPACK]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/spack_configs_tools_sdk/package.py
 [TOOLS-SDK-REPO]: https://github.com/tools-integration/tools-sdk

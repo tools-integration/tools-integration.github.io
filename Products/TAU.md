@@ -90,4 +90,4 @@ TAU is a portable profiling and tracing toolkit for performance analysis of para
 [TAU]: http://www.cs.uoregon.edu/research/tau/home.php
 [TAU-DOC]: http://www.cs.uoregon.edu/Research/tau/docs.php
 [TAU-REPO]: https://github.com/UO-OACISS/tau2
-[TAU-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/tau/package.py
+[TAU-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/tau/package.py

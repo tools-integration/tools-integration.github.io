@@ -90,5 +90,5 @@ are executing without recompiling, re-linking, or re-executing.
 [Dyninst]: https://www.paradyn.org/
 [Dyninst-DOC]: https://github.com/dyninst/dyninst/wiki
 [Dyninst-REPO]: https://github.com/dyninst/dyninst
-[Dyninst-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/dynist/package.py
+[Dyninst-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/dynist/package.py
 

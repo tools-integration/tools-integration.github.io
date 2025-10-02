@@ -90,4 +90,4 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
 [Darshan]: https://www.mcs.anl.gov/research/projects/darshan/
 [Darshan-DOC]: https://www.mcs.anl.gov/research/projects/darshan/docs/darshan-runtime.html
 [Darshan-REPO]: https://github.com/darshan-hpc/darshan
-[Darshan-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/darshan-runtime/package.py
+[Darshan-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/darshan-runtime/package.py

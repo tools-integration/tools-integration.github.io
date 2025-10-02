@@ -89,4 +89,4 @@ HPC Toolkit is an integrated suite of tools for measurement and analysis of prog
 [HPCToolkit]: https://hpctoolkit.org
 [HPCToolkit-DOC]: https://hpctoolkit.org/documentation.html
 [HPCToolkit-REPO]: https://gitlab.com/hpctoolkit/hpctoolkit
-[HPCToolkit-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/hpctoolkit/package.py
+[HPCToolkit-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/hpctoolkit/package.py

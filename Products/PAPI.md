@@ -88,4 +88,4 @@ layout: default
 [PAPI]: https://icl.utk.edu/papi/
 [PAPI-DOC]: https://github.com/icl-utk-edu/papi/wiki/
 [PAPI-REPO]: https://github.com/icl-utk-edu/papi
-[PAPI-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/papi/package.py
+[PAPI-Spack]: https://github.com/spack/spack-packages/blob/develop/repos/spack_repo/builtin/packages/papi/package.py
