@@ -68,7 +68,7 @@ are executing without recompiling, re-linking, or re-executing.
         [Website][Dyninst]
       </td><!-- Website -->
       <td markdown="span">
-        [Documentation][Dyninst-DOC]
+        [Documentation 🔎][Dyninst-DOC]
       </td><!-- Documentation -->
       <td markdown="span">
         [Repository][Dyninst-REPO]
@@ -87,7 +87,7 @@ are executing without recompiling, re-linking, or re-executing.
 
 [back](../scorecards.html)
 
-[Dyninst]: http://www.dyninst.org/
+[Dyninst]: https://www.paradyn.org/
 [Dyninst-DOC]: https://github.com/dyninst/dyninst/wiki
 [Dyninst-REPO]: https://github.com/dyninst/dyninst
 [Dyninst-Spack]: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/dynist/package.py
