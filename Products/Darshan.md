@@ -25,7 +25,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
         <strong>Impact</strong>
       </td>
       <td>
-        Why is it important to DOE ASCR and others?
+        Darshan enables critical insights on IO performance at scale.
       </td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
         <strong>Sustainability</strong>
       </td>
       <td>
-        How are advancements and maintenance funded? How stable is the funding?
+        Darshan is an active project that employs end to end testing on multiple target platforms.
       </td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ Darshan is a scalable HPC I/O characterization tool designed to capture an accur
         <strong>Quality</strong>
       </td>
       <td>
-        Based on E4S Community Policies (https://e4s-project.github.io/policies.html), Describe the activities and level of software quality mautrity.
+        Darshan has well-established software management and testing processes, including public repository, bug tracking, documentation, and CI processes for many platforms.
       </td>
     </tr>
   </tbody>
